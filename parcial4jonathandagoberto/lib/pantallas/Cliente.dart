@@ -75,7 +75,7 @@ class _RegistrationFormState extends State<RegistrationForm> {
               SizedBox(
               height: 10,
               ),
-              Image.network("https://cdn-icons-png.flaticon.com/512/6073/6073874.png",width: 300,height: 300,),
+              Image.network("https://cdn-icons-png.flaticon.com/512/4814/4814852.png",width: 300,height: 300,),
               TextFormField(
                 controller: _nameController,
                 decoration: InputDecoration(labelText: 'Nombre'),                

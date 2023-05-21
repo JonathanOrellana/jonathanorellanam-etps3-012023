@@ -70,7 +70,7 @@ class _RegistrationFormState extends State<RegistrationForm> {
               SizedBox(
               height: 10,
               ),
-              Image.network("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzAYiEvQGConZEQvSdkyKj6WHYZtCzvE3vA&usqp=CAU",width: 300,height: 300,),
+              Image.network("https://cdn-icons-png.flaticon.com/512/89/89102.png",width: 300,height: 300,),
               TextFormField(
                 controller: _marcaController,
                 decoration: InputDecoration(labelText: 'Marca'),                
